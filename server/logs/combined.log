@@ -1,0 +1,32 @@
+{"timestamp":"2025-09-16 03:23:26","level":"info","message":"Server running on port 10000","service":"jcs-pay-api","port":10000,"environment":"development","nodeVersion":"v22.12.0"}
+{"timestamp":"2025-09-16 03:23:50","level":"info","message":"Server running on port 10000","service":"jcs-pay-api","port":10000,"environment":"development","nodeVersion":"v22.14.0"}
+{"timestamp":"2025-09-16 03:24:01","level":"info","message":"Server running on port 10000","service":"jcs-pay-api","port":10000,"environment":"development","nodeVersion":"v22.14.0"}
+{"timestamp":"2025-09-16 03:26:03","level":"info","message":"Server running on port 10000","service":"jcs-pay-api","port":10000,"environment":"development","nodeVersion":"v22.14.0"}
+{"timestamp":"2025-09-16 03:26:08","level":"error","message":"MongoDB connection failed","service":"jcs-pay-api","error":"connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017"}
+{"timestamp":"2025-09-16 03:26:45","level":"info","message":"Server running on port 10000","service":"jcs-pay-api","port":10000,"environment":"development","nodeVersion":"v22.14.0"}
+{"timestamp":"2025-09-16 03:26:50","level":"error","message":"MongoDB connection failed","service":"jcs-pay-api","error":"connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017"}
+{"timestamp":"2025-09-16 03:26:50","level":"warn","message":"Server will continue without database connection. Please start MongoDB to enable full functionality.","service":"jcs-pay-api"}
+{"timestamp":"2025-09-16 03:27:55","level":"info","message":"SIGINT received, shutting down gracefully","service":"jcs-pay-api"}
+{"timestamp":"2025-09-16 03:28:08","level":"info","message":"Server running on port 10000","service":"jcs-pay-api","port":10000,"environment":"development","nodeVersion":"v22.14.0"}
+{"timestamp":"2025-09-16 03:28:13","level":"error","message":"MongoDB connection failed","service":"jcs-pay-api","error":"Server selection timed out after 5000 ms"}
+{"timestamp":"2025-09-16 03:28:13","level":"warn","message":"Server will continue without database connection. Please start MongoDB to enable full functionality.","service":"jcs-pay-api"}
+{"timestamp":"2025-09-16 03:28:31","level":"info","message":"SIGINT received, shutting down gracefully","service":"jcs-pay-api"}
+{"timestamp":"2025-09-16 03:28:43","level":"info","message":"Server running on port 10000","service":"jcs-pay-api","port":10000,"environment":"development","nodeVersion":"v22.14.0"}
+{"timestamp":"2025-09-16 03:28:48","level":"error","message":"MongoDB connection failed","service":"jcs-pay-api","error":"Server selection timed out after 5000 ms"}
+{"timestamp":"2025-09-16 03:28:48","level":"warn","message":"Server will continue without database connection. Please start MongoDB to enable full functionality.","service":"jcs-pay-api"}
+{"timestamp":"2025-09-16 03:29:27","level":"info","message":"SIGINT received, shutting down gracefully","service":"jcs-pay-api"}
+{"timestamp":"2025-09-16 03:29:39","level":"info","message":"Server running on port 10000","service":"jcs-pay-api","port":10000,"environment":"development","nodeVersion":"v22.14.0"}
+{"timestamp":"2025-09-16 03:29:44","level":"error","message":"MongoDB connection failed","service":"jcs-pay-api","error":"Server selection timed out after 5000 ms"}
+{"timestamp":"2025-09-16 03:29:44","level":"warn","message":"Server will continue without database connection. Please start MongoDB to enable full functionality.","service":"jcs-pay-api"}
+{"timestamp":"2025-09-16 03:30:09","level":"info","message":"SIGINT received, shutting down gracefully","service":"jcs-pay-api"}
+{"timestamp":"2025-09-16 03:30:21","level":"info","message":"Server running on port 10000","service":"jcs-pay-api","port":10000,"environment":"development","nodeVersion":"v22.14.0"}
+{"timestamp":"2025-09-16 03:30:26","level":"error","message":"MongoDB connection failed","service":"jcs-pay-api","error":"Server selection timed out after 5000 ms"}
+{"timestamp":"2025-09-16 03:30:26","level":"warn","message":"Server will continue without database connection. Please start MongoDB to enable full functionality.","service":"jcs-pay-api"}
+{"timestamp":"2025-09-16 03:31:18","level":"info","message":"Server running on port 10000","service":"jcs-pay-api","port":10000,"environment":"development","nodeVersion":"v22.12.0"}
+{"timestamp":"2025-09-16 03:31:23","level":"error","message":"MongoDB connection failed","service":"jcs-pay-api","error":"Server selection timed out after 5000 ms"}
+{"timestamp":"2025-09-16 03:31:23","level":"warn","message":"Server will continue without database connection. Please start MongoDB to enable full functionality.","service":"jcs-pay-api"}
+{"timestamp":"2025-09-16 03:37:19","level":"info","message":"SIGINT received, shutting down gracefully","service":"jcs-pay-api"}
+{"timestamp":"2025-09-16 03:37:34","level":"info","message":"Server running on port 10000","service":"jcs-pay-api","port":10000,"environment":"development","nodeVersion":"v22.14.0"}
+{"timestamp":"2025-09-16 03:37:53","level":"info","message":"Server running on port 10000","service":"jcs-pay-api","port":10000,"environment":"development","nodeVersion":"v22.14.0"}
+{"timestamp":"2025-09-16 03:37:58","level":"error","message":"MongoDB connection failed","service":"jcs-pay-api","error":"Server selection timed out after 5000 ms"}
+{"timestamp":"2025-09-16 03:37:58","level":"warn","message":"Server will continue without database connection. Please start MongoDB to enable full functionality.","service":"jcs-pay-api"}
